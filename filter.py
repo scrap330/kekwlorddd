@@ -3,7 +3,7 @@ import numpy as np
 import re
 
 input_path = r"C:\Users\abap0\Documents\Files\programmes\projet-scrap\sneakers.csv"
-output_path = r"C:\Users\abap0\Documents\Files\programmes\projet-scrap\sneakers_filtre.html"
+output_path = r"C:\Users\abap0\Documents\Files\programmes\projet-scrap\index.html"
 
 # Lecture du fichier CSV
 df = pd.read_csv(input_path)
